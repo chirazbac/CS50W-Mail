@@ -1,0 +1,34 @@
+textarea {
+    min-height: 400px;
+}
+
+
+
+.style_border, .unread , .read{
+    border: 1px solid darkgray;
+    align-items: center;
+    padding: 12px 0;
+
+}
+.read {
+    background-color: gainsboro;
+
+
+}
+.subject{
+    margin-left: 5px;
+
+}
+.timestamp {
+    color: gray;
+    float: right;
+    text-align: right;
+
+
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
